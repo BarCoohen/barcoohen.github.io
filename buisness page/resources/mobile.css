@@ -1,0 +1,17 @@
+@media only screen and (max-width: 800px) {
+    html{
+        font-size: 12px;
+        
+        
+    }
+    body{
+        text-align: center;
+    }
+    .nav img{
+        display: none;
+    }
+    .nav{
+        padding: 3rem 0;
+    }
+
+}
